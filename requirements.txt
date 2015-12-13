@@ -1,0 +1,4 @@
+Django==1.8.7
+MySQL-python==1.2.5
+django-tastypie==0.12.2
+requests==2.8.1
